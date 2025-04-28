@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"cSpell.words": [
+			"ASUS",
+			"jbenes",
+			"opencsv",
+			"tableexporter",
+			"tablexporter"
+		]
+	}
+}
