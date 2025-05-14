@@ -15,7 +15,7 @@ Loads data from CSV file and converts it to `RawDataRow`s.
 
 ### TableDataProcessor
 
-Processes loaded data and allows for requested operatons on it, e.g. filtering, sorting, etc.
+Processes loaded data and allows for requested operations on it, e.g. filtering, sorting, etc.
 
 ### ExportDataProcessor
 
