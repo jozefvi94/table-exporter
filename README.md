@@ -1,5 +1,10 @@
 # Table Exporter
 
+## How to use
+
+1. Run `mvn clean package` to build the project.
+2. Run `java -jar target/tableexporter-0.1.0-SNAPSHOT.jar` to start the application.
+
 ## Main components
 
 Program is divided into several components.

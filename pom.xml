@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cz.jbenes.idc</groupId>
-    <artifactId>TableExporter</artifactId>
+    <artifactId>tableexporter</artifactId>
     <version>0.1.0-SNAPSHOT</version>
 
     <properties>
@@ -49,7 +49,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>Main</mainClass>
+                            <mainClass>cz.jbenes.idc.tableexporter.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
